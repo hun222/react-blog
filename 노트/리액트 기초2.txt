@@ -1,0 +1,13 @@
+* 리스트 별 모달창 띄우기
+- 누른번호 state에 저장
+- state에 맞게 모달에 출력
+- UI정보를 state에 저장 -> state에 따라 UI가 수정되게 만든다.
+
+Alt + shift + 아래 방향키 : 행 복사
+
+* input에서 데이터 가져오기
+- onChange 속성을 이용해서 event.target.value와 state를 연결
+
+* React 구문법
+- class component
+- 요즘 문법이 더 간편하다.
